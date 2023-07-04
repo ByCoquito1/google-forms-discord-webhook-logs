@@ -1,6 +1,6 @@
 /* Google Forms Discord Logs */
-/* Made by ByCoquito1#0001 /*
-const webhooks = [ "YOUR-WEBHOOK-URL" ];
+/* Made by bycoquito /*
+const webhooks = [ "YOUR_WEBHOOK_URL" ];
 
 /* Start of optional section */
 const title = "EMBED-TITLE"; /*    Add a nice custom title, to make the script truly yours.    */
